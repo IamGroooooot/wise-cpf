@@ -9,7 +9,7 @@ npm install --global gatsby-cli
 
  - CLI에서 실행
 ```sh
-cd gatsby-directory
+cd gatsby-source-code
 npm install
 gatsby develop
 ```
@@ -20,6 +20,7 @@ gatsby develop
 ```
 gatsby build --prefix-paths
 ```
+ - public 파일이 곧 빌드된 파일
 
 ## used Gatsby Starter Spectral
  - Original Developer([anubhavsrivastava](https://github.com/anubhavsrivastava/gatsby-starter-spectral))
