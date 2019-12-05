@@ -20,3 +20,7 @@ gatsby develop
 ```
 gatsby build --prefix-paths
 ```
+
+## used Gatsby Starter Spectral
+ - Original Developer([anubhavsrivastava](https://github.com/anubhavsrivastava/gatsby-starter-spectral))
+ - https://anubhavsrivastava.github.io/gatsby-starter-spectral/
